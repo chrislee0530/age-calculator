@@ -1,5 +1,5 @@
 # age-calculator
-Do you want to know how many years, months, and days old you are? Calculate your exact age using this simple age calculator built with HTML/CSS and JavaScript.
+do you want to know how many years, months, and days old you are? Calculate your exact age using this simple age calculator built with HTML/CSS and JavaScript.
 
 A project under construction...🛠️
 
